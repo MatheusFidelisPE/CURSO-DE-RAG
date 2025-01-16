@@ -12,6 +12,8 @@ load_dotenv()
 
 # Setup da aplicação
 
+print("Programa começou...")
+
 data_directory = os.getenv("PATH_TO_DATA")
 gemini_api_key = os.getenv("GEMINI_API_KEY")
 gemini_model = os.getenv("GEMINI_MODEL_NAME")
@@ -49,7 +51,8 @@ while True:
     else:
         # Passando a query para fazer a busca e já enviar para o LLM
         response = query_engine.query(query)
-        print("\n"+response)
+        print()
+        print(response)
     
     print("-------------------")
 
