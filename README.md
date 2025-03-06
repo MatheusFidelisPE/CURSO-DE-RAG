@@ -88,5 +88,10 @@ Ao trabalhar neste projeto, você irá:
 - Ganhar experiência na integração de LLMs com fontes de conhecimento externas.
 
 ---
+## Vídeo para curso
+Esse repositório representa a parte prática de um curso desenvolvido para a cadeira Educação à Distância. 
+[RAG - Introdução e prática](https://youtube.com/playlist?list=PLXCigP7uSoCezJEMBJYovz0-Jpq3SI22s&feature=shared)
+
+
 Bons estudos!
 
